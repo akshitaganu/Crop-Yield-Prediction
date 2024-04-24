@@ -4,15 +4,15 @@ The aim of this data science project is to predict crop yield using the dataset 
 
 ## Data Dictionary
 
-| Column Name     | Description                      |
-|-----------------|----------------------------------|
-| Rain Fall (mm)  | Rainfall in millimeters          |
-| Temperature (C) | Temperature in Celsius           |
-| Fertilizer (kg) | Fertilizer in kilograms          |
-| Nitrogen (N)    | Nitrogen macro nutrient          |
-| Phosphorous (P) | Phosphorous macro nutrient       |
-| Potassium (K)   | Potassium macro nutrient         |
-| Yield (Q/acres) | Crop yield Quintals per acre     |
+ Column Names:
+ 
+ - Rain Fall (mm)  
+ - Temperature (C) 
+ - Fertilizer (kg) 
+ - Nitrogen (N)     
+ - Phosphorous (P) 
+ - Potassium (K)           
+ - Yield (Q/acres)  
 
 ## Data Preprocessing
 
